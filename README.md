@@ -6,7 +6,7 @@ Given an image(this algorithm works on grayscale image), the algorithm looks at 
 
 The Viola Jones algorithm has four main steps, which we shall discuss in the sections to follow:
 
--> Selecting Haar-like features
+-> Selecting Haar-like features /n
 -> Creating an integral image
 -> Running AdaBoost training
 -> Creating classifier cascades
